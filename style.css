@@ -1,0 +1,90 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+
+body{
+    padding: 50px;
+    padding-right: 0px;
+    margin-left: 3%;
+}
+.navbar-container>div{
+    display: inline;
+    float: left;
+}
+.brand-logo{
+    width: 120px;
+    height: 40px;
+    
+}
+.list{
+    margin-top: 1%;
+    margin-left: 100px;
+    margin-right: 500px;
+}
+
+.list-item{
+    color: gray;
+    display: inline;
+    padding: 0px 20px 0px 20px ;
+    font-family: Poppins;
+
+
+}
+li:first-child{
+    color: black;
+}
+.nav-button{
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius:  10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: none;
+    background-color:#7137b3;
+    color: white;
+}
+.banner-container > div{
+display: inline;
+margin-top: 10%;
+/* width: 40%; */
+}
+.desc{
+    float: left;
+    text-align:left;
+    width: 30%;
+    
+}
+.banner-container img{
+    width: 50%;
+    height: 50%;
+    margin-top: 3%;
+    float: right;
+}
+.heading-text{
+    font-size: 50px;
+     font-family: Poppins;
+     color:#2c1469;
+     line-height: 1.2;
+    
+     
+}
+.description{
+    color: grey;
+    margin-bottom: 10%;
+    margin-top: 3%;
+    font-size: 15px;
+    margin-right: 117px;
+    font-family: Poppins;
+    
+}
+.heading-text span{
+    color:#2826bd;
+}
+
+.nav-button{
+    padding-left: 30px;
+    padding-right: 30px;
+   
+}
