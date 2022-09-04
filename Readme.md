@@ -35,5 +35,5 @@ and explore various concepts of HTML & CSS . This project helped me to learn abo
 
 <br>
 <p align="center">
-<img src="./Assets/4.png" max-width=600px>
+<img src="./assets/4.png" max-width=600px>
 </p>
